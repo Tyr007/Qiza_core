@@ -1,4 +1,4 @@
-Now Version is 0.00.00.000
+Now Version is 0.00.00.001
 
 当前为架构阶段。
 
